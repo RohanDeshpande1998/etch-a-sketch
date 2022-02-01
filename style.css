@@ -1,0 +1,21 @@
+.main{
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    max-width: 1600px;
+    align-items: center;
+    justify-content:space-around;
+}
+.settings{
+    display:flex;
+} 
+.grid{
+    border: 2px solid black;
+    display: grid;
+    width:500px;
+    height:500px;
+    background-color:azure;
+}
+.color{
+    color: currentColor;
+}
